@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-gyp": "^3.8.0",
     "zeppelin-solidity": "^1.12.0"
   }
 }
